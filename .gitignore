@@ -1,0 +1,5 @@
+.idea/
+app/migrations
+app/__pycache__
+app/management/commands/__pycache__/*
+logs/
